@@ -1,0 +1,63 @@
+[
+    {
+        "Laboratorio":1,
+        "titulo": "INFORME 1 LABORATORIO BIOLOGÍA",
+        "items":[
+            {
+                "Titulo": "HISTORIA DEL MICROSCOPIO",
+                "Info": [
+                    "No se sabe a ciencia cierta cuando descubrió el hombre por primera vez, que un objeto observado a través de un cristal de forma lenticular apareciera agrandado. Existen a este respecto testimonios antiquísimos, pero muy vagos: forman parte de la prehistoria. La historia del microscopio se inicio en el siglo XVI, con Benedetto Rucellai, quien escribe en uno de sus pequeños poemas las observaciones realizadas sobre abejas seccionadas con la ayuda de un espejo cóncavo.",
+                    "El mundo microscópico permaneció oculto para el ser humano hasta la invención de un instrumento óptico realizado por Juan y Zacarías Jansen en 1590, lo que abrió las puertas a un mundo desconocido. Los hermanos Jansen descubrieron que al colocar dos lentes separados y mirar a través de ellos, los objetos observados aumentaban de tamaño.",
+                    "Mas tarde el holandés Anton van Leeuwenhoek invento un antepasado del microscopio, convirtiéndose en un pionero del microscopio al realizar las primeras observaciones de microorganismos en el agua de lluvia, sarro de dientes, sangre, semen, excrementos, etc., describiendo unos pequeños animales de gran diversidad.",
+                    "Al transcurrir los años, los avances en la física, especialmente la óptica, fueron perfeccionando el microscopio óptico, el cual puede aumentar entre 100 y 1.500 veces la imagen del objeto. Hoy en día nos encontramos con el microscopio electrónico, el cual no ocupa luz ni lentes, sino tan solo electrones y lentes electromagnéticas, lográndose un aumento de la imagen del objeto de unas 300.000 veces."
+                ],
+                "Imagenes": [
+                    "https://cdn.shopify.com/s/files/1/0339/7965/products/mi.jpg?v=1564071647",
+                    "https://www.univision.com/proxy/api/cached/picture?href=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fassets%2Fvixes%2Fbtg%2Fcuriosidades.batanga.com%2Ffiles%2FQuien-invento-el-microscopio-1.jpg&width=0&height=0&ratio_width=1240&ratio_height=698&format=webp"
+                ]
+            },
+            {
+                "Titulo": "TIPOS DE MICROSCOPIOS",
+                "Info": [
+                    "MICROSCOPIO OPTICO:/ En el microscopio óptico la muestra es iluminada mediante luz visible. Esto significa que existe un foco de luz apuntando hacia la muestra. Esa misma luz es conducida a través del objetivo y del ocular hasta llegar a formar la imagen en el ojo del observador. Este es el tipo de microscopio más habitual pero su resolución está limitada por la difracción de la luz. El aumento máximo que se puede obtener con este tipo de microscopio alcanza alrededor de 1500x.",
+                    "MICROSCOPIO ELECTRONICO:/ En el microscopio electrónico la muestra no es iluminada con luz sino que se utilizan electrones. Los electrones impactan contra la muestra dentro de una cámara de vacío. Existen diferentes tipos de microscopio electrónico pero su principio de funcionamiento se basa siempre en capturar los electrones dispersados u omitidos por la muestra y así poder reconstruir una imagen",
+                    "MICROSCOPIO DE LUZ ULTRAVIOLETA:/ Los microscopios de luz ultravioleta iluminan la muestra, como el nombre indica, con luz ultravioleta. Este tipo de luz tiene una longitud de onda más corta que la luz visible utilizada en los microscopios ópticos. La ventaja principal de utilizar esta técnica es que puede alcanzarse una resolución mejor que con luz visible. Además, el contraste obtenido en la muestra es distinto que en los microscopios ópticos. De este modo, con el microscopio de luz ultravioleta pueden observar muestras que aparecen transparentes si son observadas con luz visible.",
+                    "MICROSCOPIO DE LUZ POLARIZADA:/ También conocido como microscopio petrográfico. Este microscopio es en realidad un tipo de microscopio óptico al que se la han añadido dos polarizadores. Esto significa que la onda de luz utilizada para observar la muestra tiene una dirección de oscilación concreta. Este tipo de microscopio es muy útil para observar estructuras cristalinas de rocas y minerales.",
+                    "MICROSCOPIOS SEGÚN EL NUMERO DE LENTES:/ Microscopio compuesto y microscopio simple.",
+                    "MICROSCOPIO SEGUN LA TRANSMISION DE LA LUZ:/ Microscopio de luz transmitida y Microscopio de luz reflejada."
+                ],
+                "Imagenes": []
+            },
+            {
+                "Titulo": "PROPIEDADES DEL MICROSCOPIO:",
+                "Info": [
+                    "Poder de resolución \nSe relaciona con el detalle mínimo que un microscopio puede ofrecer. Depende del diseño del equipo y de las propiedades de radiación. Usualmente, este término es confundido con la “resolución”, que se refiere al detalle alcanzado en realidad por el microscopio.",
+                    "Contraste o definición \nEsta propiedad se refiere a la capacidad del microscopio para definir los bordes o límites de un objeto con respecto al fondo donde se encuentra.",
+                    "Magnificación \nTambién llamada grado de ampliación, esta característica no es más que la relación numérica existente entre el tamaño de la imagen y el tamaño del objeto."
+                ],
+                "Imagenes": [
+                    "/Externas/Lab1/1.JPG",
+                    "/Externas/Lab1/2.JPG",
+                    "/Externas/Lab1/3.JPG",
+                    "/Externas/Lab1/4.JPG"
+                ]
+            }
+        ],
+        "bibliografia": [
+            {
+                "ref": "primer microscopio - Google Zoeken. (s. f.).",
+                "link": "https://www.google.com/search?q=primer+microscopio"
+            },
+            {
+                "ref": "A. (s. f.). HISTORIA DEL MICROSCOPIO. Equipos y laboratorio de Colombia.",
+                "link": "https://www.equiposylaboratorio.com/portal/articulo-ampliado/historia-del-microscopio"
+            },
+            {
+                "ref": "A. (2021, 1 enero). Tipos de microscopios. Mundo Microscopio.",
+                "link": "https://www.mundomicroscopio.com/tipos-de-microscopios/"
+            }
+        ],
+        "abstrac": "En este laboratorio se realizó se realizo el primer acercamiento sobre la historia del microscopio, su funcionalidades y se aprendió sobre el correcto uso del mismo para poder analizar muestras en los portaobjetos.",
+        "portada":  "/Externas/Lab1/1.JPG"
+    }
+]
