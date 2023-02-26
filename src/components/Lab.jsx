@@ -4,6 +4,7 @@ import { useDispatch } from 'react-redux'
 import {getLab} from '../redux/actions.js'
 import { connect } from "react-redux";
 import backgroundDetail from '../images/backgroundDetail.jpg'
+import ReactPlayer from 'react-player'
 
  const CardLab = (props) =>{
     const dispatch = useDispatch();
@@ -70,18 +71,40 @@ import backgroundDetail from '../images/backgroundDetail.jpg'
                                                 }
                                             </div>
                                             <div class="row-span-3">
-                                                <div class="grid grid-flow-col auto-cols-max justify-center">
+                                                <div class="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-4 content-start">
                                                     {
                                                         i.Imagenes.map( j => {
                                                             return (
-                                                                <div class="row-span-3 rounded-lg justify-center">
-                                                                    <img     
-                                                                        className="object-cover  h-52 w-52 rounded-lg shadow-2xl shadow-cyan-200/100 m-2"
-                                                                        src={j}
-                                                                        alt="Div coallge">
-                                                                    </img>
+                                                            <div className="justify-center row-span-3 w-full rounded-lg shadow-md lg:max-w-sm bg-cyan-500 hover:bg-cyan-600 shadow-2xl shadow-red-100/100" style={{
+                                                                alignItems: "center",
+                                                                display: "flex",
+                                                                flexDirection: "column",
+                                                                justifyContent: "flex-start"
+                                                            }}>
+                                                                {j["url"].split(".")[1] !== "mp4"? (
+                                                                <img className="object-cover w-52 h-52 rounded-lg p-4"
+                                                                    src={j["url"]}
+                                                                    alt="Prueba Imagen"
+                                                                />):
+                                                                (<div class="row-span-3 rounded-lg justify-center" className='player-wrapper'>
+                                                                    <ReactPlayer
+                                                                        class="row-span-3 rounded-lg justify-center"
+                                                                        className='react-player fixed-bottom'
+                                                                        url={j["url"]}
+                                                                        width='13rem'
+                                                                        height='13rem'
+                                                                        controls = {true}
+                                                                    />
+                                                                </div>)
+                                                                }
+                                                                <div className="p-4">
+                                                                    <p className="mb-2 leading-normal text-justify">
+                                                                        {j["text"]}
+                                                                    </p>
                                                                 </div>
-                                                            )
+                                                            </div>
+                                                        
+                                                        )
                                                         })
                                                     }
                                                 </div>

@@ -12,8 +12,8 @@
                     "Al transcurrir los años, los avances en la física, especialmente la óptica, fueron perfeccionando el microscopio óptico, el cual puede aumentar entre 100 y 1.500 veces la imagen del objeto. Hoy en día nos encontramos con el microscopio electrónico, el cual no ocupa luz ni lentes, sino tan solo electrones y lentes electromagnéticas, lográndose un aumento de la imagen del objeto de unas 300.000 veces."
                 ],
                 "Imagenes": [
-                    "https://cdn.shopify.com/s/files/1/0339/7965/products/mi.jpg?v=1564071647",
-                    "https://www.univision.com/proxy/api/cached/picture?href=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fassets%2Fvixes%2Fbtg%2Fcuriosidades.batanga.com%2Ffiles%2FQuien-invento-el-microscopio-1.jpg&width=0&height=0&ratio_width=1240&ratio_height=698&format=webp"
+                    {"url": "https://cdn.shopify.com/s/files/1/0339/7965/products/mi.jpg?v=1564071647", "text": ""},
+                    {"url": "https://www.univision.com/proxy/api/cached/picture?href=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fassets%2Fvixes%2Fbtg%2Fcuriosidades.batanga.com%2Ffiles%2FQuien-invento-el-microscopio-1.jpg&width=0&height=0&ratio_width=1240&ratio_height=698&format=webp", "text": ""}
                 ]
             },
             {
@@ -36,10 +36,10 @@
                     "Magnificación \nTambién llamada grado de ampliación, esta característica no es más que la relación numérica existente entre el tamaño de la imagen y el tamaño del objeto."
                 ],
                 "Imagenes": [
-                    "/Externas/Lab1/1.JPG",
-                    "/Externas/Lab1/2.JPG",
-                    "/Externas/Lab1/3.JPG",
-                    "/Externas/Lab1/4.JPG"
+                    {"url": "/Externas/Lab1/1.JPG", "text": null},
+                    {"url": "/Externas/Lab1/2.JPG", "text": null},
+                    {"url": "/Externas/Lab1/3.JPG", "text": null},
+                    {"url": "/Externas/Lab1/4.JPG", "text": null}
                 ]
             }
         ],
@@ -117,12 +117,13 @@
                     "Magnificación \nTambién llamada grado de ampliación, esta característica no es más que la relación numérica existente entre el tamaño de la imagen y el tamaño del objeto."
                 ],
                 "Imagenes": [
-                    "/Externas/Lab2/1.jpg",
-                    "/Externas/Lab2/2.jpg",
-                    "/Externas/Lab2/3.jpg",
-                    "/Externas/Lab2/4.jpg",
-                    "/Externas/Lab2/5.jpg",
-                    "/Externas/Lab2/6.jpg"
+                    {"url": "/Externas/Lab2/1.jpg", "text": "Foto tomada del microscopio"},
+                    {"url": "/Externas/Lab2/2.jpg", "text": "Foto tomada del estereoscopio"},
+                    {"url": "/Externas/Lab2/3.jpg", "text": "Foto tomada del microscopio"},
+                    {"url": "/Externas/Lab2/4.jpg", "text": "Foto tomada del estereoscopio"},
+                    {"url": "/Externas/Lab2/5.jpg", "text": "Foto tomada del estereoscopio"},
+                    {"url": "/Externas/Lab2/6.jpg", "text": "Foto tomada del estereoscopio"},
+                    {"url": "/Externas/Lab2/v1.mp4", "text": "Video tomada del estereoscopio"}
                 ]
             },
             {
