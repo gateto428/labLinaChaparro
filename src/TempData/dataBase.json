@@ -150,5 +150,145 @@
         ],
         "abstrac": "En este laboratorio se realizó se realizo el primer acercamiento sobre la historia del microscopio, su funcionalidades y se aprendió sobre el correcto uso del mismo para poder analizar muestras en los portaobjetos.",
         "portada":  "/Externas/Lab1/1.JPG"
+    },
+    {
+        "Laboratorio":3,
+        "titulo": "Laboratorio 3 INFORME DE LABORATORIO MICROORGANISMOS",
+        "items":[
+            {
+                "Titulo": "INTRODUCCIÓN:",
+                "Info": [
+                   "Los microorganismos son seres vivos muy pequeños que sólo se pueden ver a través de un microscopio, participan en diversos procesos metabólicos, ecológicos y biotecnológicos convirtiéndose en un factor clave para el funcionamiento de los sistemas biológicos y el mantenimiento de la vida en la Tierra. Se reconoce que existe una gran diversidad biológica, por ejemplo, de hongos se han descrito 70,000 especies, aunque se pronostican hasta dos millones. Así mismo, poseen una rápida capacidad para adaptarse a los cambios ambientales debido a su historia evolutiva, ya que las archaeas, un grupo de estos microorganismos, son consideradas como las primeras formas de vida en el planeta. Su capacidad y eficiencia metabólica les permitieron colonizar la superficie terrestre, el aire, los lagos salados y prácticamente todas las regiones geográficas del planeta.",
+                   "Son también los principales responsables de la descomposición de la materia orgánica y del ciclaje de los nutrientes como el carbono, permitiendo el funcionamiento de los ecosistemas. En seres humanos también existen bacterias en elevada densidad, como es el caso de Escherichia coli en el colon del intestino humano. Aunque en la actualidad se sabe que muchas de las enfermedades infecciosas que afectan a la humanidad son causadas por microorganismos, bacterias, hongos y virus principalmente, también es importante recordar que los antibióticos son producidos por ellos mismos, y que son de enorme importancia médica, como la penicilina, sintetizada por los hongos Penicillium notatum y P. chrysodenum."
+                ],
+                "Imagenes": [
+                ]
+            },
+            {
+                "Titulo": "OBJETIVOS:",
+                "Info": [
+                    "Reconocer los diferentes microorganismos que se encuentran en el cultivo  y a su vez conocer sus características."
+                ],
+                "Imagenes": []
+            },
+            {
+                "Titulo": "MATERIALES:",
+                "Info": [
+                   "Cultivo",
+                   "Microscopio",
+                   "Guantes",
+                   "Laminas porta y cubre objetos"
+                ],
+                "Imagenes": [
+                ]
+            },
+            {
+                "Titulo": "RESULTADOS",
+                "Info": [
+                    "CULTIVO:"
+                ],
+                "Imagenes": [
+                    {"url": "/Externas/Lab3/1.jpeg", "text": "Evidencia de cultivo"}
+                ]
+            },
+            {
+                "Titulo": "PARAMECIO:",
+                "Info": [
+                    "Los paramecios (género Paramecium) son protistas ciliados con forma ovalada, habituales en aguas dulces estancadas con abundante materia orgánica, como charcos y estanques. Son probablemente los seres unicelulares mejor conocidos y los protozoos ciliados más estudiados por la ciencia. (lente 10x)"
+                ],
+                "Imagenes": [
+                    {"url": "/Externas/Lab3/2.jpeg", "text": "Imagen tomada con lente 10X"}
+                ]
+            },
+            {
+                "Titulo": "CILIADOS:",
+                "Info": [
+                    "Los ciliados son protozoos caracterizados por presentar cilios por lo menos en una etapa de su ciclo de vida, por exhibir dualismo nuclear y llevar a cabo el proceso sexual conocido como conjugación. Son considerados como el grupo de protozoos más homogéneo, por lo que su monofilia es ampliamente reconocida. (lente 40x)"
+                ],
+                "Imagenes": [
+                    {"url": "/Externas/Lab3/v1.mp4", "text": "Video tomada por lente 40X"}
+                ]
+            },
+            {
+                "Titulo": "NEMATODOS GUSANOS:",
+                "Info": [
+                    "Los nematodos son conocidos por su capacidad de infección y causa de enfermedades, tanto en plantas como en animales, siendo los responsables de la pérdida de cultivos y plantas ornamentales, así como de enfermedades infecciosas gastrointestinales en los seres humanos y otros animales (mamíferos y peces, principalmente). De esta forma, los nematodos son considerados uno de los fitopatógenos y parásitos más extendidos en cualquier rincón del planeta. (lente 40x)"
+                ],
+                "Imagenes": [
+                    {"url": "/Externas/Lab3/3.jpeg", "text": "Foto tomada por lente 40X"}
+                ]
+            },
+            {
+                "Titulo": "ANELIDO:",
+                "Info": [
+                    "Los anélidos incluyen aproximadamente unas 16.000 especies de gusanos. La principal característica de los anélidos es que son gusanos segmentados, es decir, su cuerpo está compuesto por numerosos metámeros o anillos similares entre sí. Esta segmentación no es solo externa, sino también interna: ciertos órganos se repiten en cada uno de los segmentos (tienen, por ejemplo, un par de ganglios nerviosos en cada segmento). (lente 40x)"
+                ],
+                "Imagenes": [
+                    {"url": "/Externas/Lab3/4.jpeg", "text": "Foto tomada por lente 40X"}
+                ]
+            },
+            {
+                "Titulo": "ROTIFERO:",
+                "Info": [
+                    "Son animales que poseen una cabeza definida y un tronco. Su cuerpo está recubierto por una capa de cutícula protectora. Poseen quetas que son unas cerdas características. Según la cantidad de estas podemos definir a ciertos grupos, como los poliquetos (muchas quetas) y a los oligoquetos (pocas quetas). (lente 10x)"
+                ],
+                "Imagenes": [
+                    {"url": "/Externas/Lab3/5.jpeg", "text": "Foto tomada por lente 10X"}
+                ]
+            },
+            {
+                "Titulo": "GLAUCOMA SCINTILLANS:",
+                "Info": [
+                    "Glaucoma scintillans es un ciliado de contorno oval y de pequeño tamaño, suele vivir en aguas corrientes en las que existe un alto nivel de contaminación orgánica, en ellas se alimenta de bacterias y de detritus. (lente 40x)"
+                ],
+                "Imagenes": [
+                    {"url": "/Externas/Lab3/6.jpeg", "text": "Foto tomada por lente 40X"}
+                ]
+            },
+            {
+                "Titulo": "DISCUSIÓN Y RESULTADOS:",
+                "Info": [
+                    "Se logró distinguir por medio del microscopio y sus diferentes cartuchos las formas de los distintos microorganismos en la materia fecal, como se mueven, como obtener una muestra de ellos, reconocer y conocer un poco más sobre sus características."
+                ],
+                "Imagenes": [
+                ]
+            }
+        ],
+        "bibliografia": [
+            {
+                "ref": "La biología de los microorganismos. (s. f.). ",
+                "link": "https://www.oaxaca.gob.mx/ageo/la-biologia-de-los-microorganismos/"
+            },
+            {
+                "ref": "colaboradores de Wikipedia. (2023, 28 febrero). Paramecium. Wikipedia, la enciclopedia libre.",
+                "link": "https://es.wikipedia.org/wiki/Paramecium"
+            },
+            {
+                "ref": "Gonzalez, C. J. G. (s. f.). caracteristicas de los ciliados!! prezi.com.",
+                "link": "https://prezi.com/ckbfzuntocak/caracteristicas-de-los-ciliados/"
+            }
+            ,
+            {
+                "ref": "Roldán, L. F. (2023, 9 enero). Qué son los nematodos: características, clasificación y ejemplos. ecologiaverde.com.",
+                "link": "https://www.ecologiaverde.com/que-son-los-nematodos-caracteristicas-clasificacion-y-ejemplos-2556.html"
+            }
+            ,
+            {
+                "ref": "Belmonte, Á. (2020, 11 mayo). Anélidos: tipos, características y ejemplos. unprofesor.com.",
+                "link": "https://www.unprofesor.com/ciencias-naturales/anelidos-tipos-caracteristicas-y-ejemplos-4171.html"
+            }
+            ,
+            {
+                "ref": "Reino Animalia: Phyla Rotifera, Nematoda y Annelida (artículo). (s. f.). Khan Academy.",
+                "link": "https://es.khanacademy.org/science/biologia-pe-pre-u/x512768f0ece18a57:reino-animalia-y-sus-caracteristicas/x512768f0ece18a57:animalia-clasificacion/a/reino-animalia-phyla-rotifera-nematoda-y-annelida"
+            }
+            ,
+            {
+                "ref": "Glaucoma scintillans Ehrenberg, 1830. (s. f.).",
+                "link": "https://www.gbif.org/es/species/7535916"
+            }
+        ],
+        "abstrac": "Los microorganismos son seres vivos muy pequeños que sólo se pueden ver a través de un microscopio, participan en diversos procesos metabólicos, ecológicos y biotecnológicos convirtiéndose en un factor clave para el funcionamiento de los sistemas biológicos y el mantenimiento de la vida en la Tierra. Se reconoce que existe una gran diversidad biológica, por ejemplo, de hongos se han descrito 70,000 especies, aunque se pronostican hasta dos millones. Así mismo, poseen una rápida capacidad para adaptarse a los cambios ambientales debido a su historia evolutiva, ya que las archaeas, un grupo de estos microorganismos, son consideradas como las primeras formas de vida en el planeta.",
+        "portada":  "/Externas/Lab3/1.JPG"
     }
 ]

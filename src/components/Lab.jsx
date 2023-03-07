@@ -70,8 +70,16 @@ import ReactPlayer from 'react-player'
                                                     })
                                                 }
                                             </div>
-                                            <div class="row-span-3">
-                                                <div class="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-4 content-start">
+                                            <div class="row-span-3" style={{
+                                                display: "flex",
+                                                flexDirection: "row",
+                                                justifyContent: "center",
+                                                flexWrap: "nowrap",
+                                                alignItems: "center"
+                                            }}>
+                                                <div class="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-4 content-start" style={{
+                                                    display: i.Imagenes.length <= 1? "block": "grid"
+                                                }}>
                                                     {
                                                         i.Imagenes.map( j => {
                                                             return (
@@ -121,7 +129,7 @@ import ReactPlayer from 'react-player'
                                             }}>
                                                 <p class="font-bold text-3xl" style={{
                                                     textShadow: '#fed000 1px 0 10px'
-                                                }}>Bibliografia</p>
+                                                }}>BIBLIOGRAFÍA</p>
                                             </div>
                                             <div class="row-span-2 col-span-2 border-solid border-2 border-white-500 rounded-lg bg-red-200 p-2">
                                             <ul class="list-disc p-8">
