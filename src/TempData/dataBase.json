@@ -290,5 +290,81 @@
         ],
         "abstrac": "Los microorganismos son seres vivos muy pequeños que sólo se pueden ver a través de un microscopio, participan en diversos procesos metabólicos, ecológicos y biotecnológicos convirtiéndose en un factor clave para el funcionamiento de los sistemas biológicos y el mantenimiento de la vida en la Tierra. Se reconoce que existe una gran diversidad biológica, por ejemplo, de hongos se han descrito 70,000 especies, aunque se pronostican hasta dos millones. Así mismo, poseen una rápida capacidad para adaptarse a los cambios ambientales debido a su historia evolutiva, ya que las archaeas, un grupo de estos microorganismos, son consideradas como las primeras formas de vida en el planeta.",
         "portada":  "/Externas/Lab3/1.jpeg"
+    },
+    {
+        "Laboratorio":4,
+        "titulo": " INFORME LABORATORIO ORGANIZACIÓN CELULAR",
+        "items":[
+            {
+                "Titulo": "RESUMEN",
+                "Info": [
+                   "La célula es la unidad básica, estructural y funcional de los seres vivos. En su interior se encuentran los componentes esenciales que hacen posible que los organismos se desarrollen adecuadamente y cumplan con sus funciones esenciales: respiración, nutrición, reproducción, etc.",
+                   "Las células tienen una estructura básica compuesta por una membrana celular, el citoplasma que contiene los componentes de la célula y el material genético. Este último puede estar concentrado en el núcleo, como en las células eucariotas o disperso en el citoplasma, como en las células procariotas.",
+                   "Las células se clasifican en dos grandes tipos:",
+                   "Células eucariotas, que son las que poseen núcleo celular. A su vez, las células eucariotas pueden ser de tipo animal o vegetal.",
+                   "Células procariotas: que no poseen núcleo celular. \n La palabra célula viene del latín cellula, que significa “pequeña celda”. El término fue utilizado por primera vez por el naturalista Robert Hooke en el siglo XVII. La teoría celular fue propuesta en 1839 por Matthias Jakob Shleiden y Theodor Schwann. Ambos afirmaron que todos los organismos están conformados por células, las cuales derivan de otra célula precedente. (Qué es la célula, 2014)"
+                ],
+                "Imagenes": [
+                ]
+            },
+            {
+                "Titulo": "OBJETIVOS:",
+                "Info": [
+                    "Reconocer las células eucariotas y procariotas en el microscopio.",
+                    "Identificar sus fases con elementos como la cebolla, tomate y demás.",
+                    "Identificar algunos organelos y sus estructuras citoplasmáticas."
+                ],
+                "Imagenes": []
+            },
+            {
+                "Titulo": "MATERIALES:",
+                "Info": [
+                    "Microscopio",
+                    "Portaobjetos",
+                    "Cubreobjetos",
+                    "Gotero ",
+                    "Palillos de madera",
+                    "Azul de metileno ",
+                    "Lugol",
+                    "Yogurt ",
+                    "Levadura",
+                    "Tomate",
+                    "Moho",
+                    "Pinzas"
+                ],
+                "Imagenes": [
+                ]
+            },
+            {
+                "Titulo": "RESULTADOS",
+                "Info": [
+                ],
+                "Imagenes": [
+                    {"url": "/Externas/Lab4/1.jpeg", "text": "Muestra de yogurt con azul de metileno Lente 10x"},
+                    {"url": "/Externas/Lab4/2.jpeg", "text": "Muestra moho: se pueden observar sacharomises podemos observar los filamentos de las hinfas dentro de los pequeños “parches” negros. Lente 40x"},
+                    {"url": "/Externas/Lab4/3.jpeg", "text": "Células de la mejilla Lente 40x Presenta células epiteliales con un núcleo definido en su interior. Podemos observar la membrana plasmática (azul oscuro), su núcleo son los puntos en su interior."},
+                    {"url": "/Externas/Lab4/4.jpeg", "text": "Epidermis de la cebolla con lugol lente 10x Podemos observar la pared celular (líneas) su membrana plasmática es lo que está dentro de la pared celular y su núcleo son aquellos puntos amarillos."},
+                    {"url": "/Externas/Lab4/5.jpeg", "text": "Tomate lente 5x Podemos observar la presencia del ripus nigrasa."},
+                    {"url": "/Externas/Lab4/6.jpeg", "text": "Almidón en azul de metileno lente 40x Podemos presenciar los aminoplastos  esta es una  bacteria del almidón."},
+                    {"url": "/Externas/Lab4/7.jpeg", "text": "Ilustración de los organismos celulares encontrados en la práctica"}
+                ]
+            },
+            {
+                "Titulo": "DISCUSIÓN Y RESULTADOS:",
+                "Info": [
+                    "En esta práctica se pudo observar los diferentes microorganismos y su  composición celular bajo el microscopio, microorganismos tales como las células epiteliales las cuales son muy interesantes de ver cuando se dejan en la placa con el azul de metileno ya que se descomponen esto mismo pasa con la levadura después de cierto tiempo y esto nos permite observar mas a detalle su composición, diversos microorganismos que nos permiten un conocimiento más amplio de ellos a su vez interpretando gráficamente para poder tener claro partes como la membrana celular y demás."
+                ],
+                "Imagenes": [
+                ]
+            }
+        ],
+        "bibliografia": [
+            {
+                "ref": "Significados. (2022, 5 octubre). Qué es la célula.",
+                "link": "https://www.significados.com/celula/"
+            }
+        ],
+        "abstrac": "La célula es la unidad básica, estructural y funcional de los seres vivos. En su interior se encuentran los componentes esenciales que hacen posible que los organismos se desarrollen adecuadamente y cumplan con sus funciones esenciales: respiración, nutrición, reproducción, etc.",
+        "portada":  "/Externas/Lab4/7.jpeg"
     }
 ]

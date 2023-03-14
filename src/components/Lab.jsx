@@ -90,7 +90,7 @@ import ReactPlayer from 'react-player'
                                                                 justifyContent: "flex-start"
                                                             }}>
                                                                 {j["url"].split(".")[1] !== "mp4"? (
-                                                                <img className="object-cover w-52 h-52 rounded-lg p-4"
+                                                                <img className="object-cover w-80 h-80 rounded-lg p-4"
                                                                     src={j["url"]}
                                                                     alt="Prueba Imagen"
                                                                 />):
@@ -99,8 +99,8 @@ import ReactPlayer from 'react-player'
                                                                         class="row-span-3 rounded-lg justify-center"
                                                                         className='react-player fixed-bottom'
                                                                         url={j["url"]}
-                                                                        width='13rem'
-                                                                        height='13rem'
+                                                                        width='20rem'
+                                                                        height='20rem'
                                                                         controls = {true}
                                                                     />
                                                                 </div>)
