@@ -366,5 +366,112 @@
         ],
         "abstrac": "La célula es la unidad básica, estructural y funcional de los seres vivos. En su interior se encuentran los componentes esenciales que hacen posible que los organismos se desarrollen adecuadamente y cumplan con sus funciones esenciales: respiración, nutrición, reproducción, etc.",
         "portada":  "/Externas/Lab4/7.jpeg"
+    },
+    {
+        "Laboratorio":5,
+        "titulo": "INFORME LABORATORIO BIOMOLÉCULAS",
+        "items":[
+            {
+                "Titulo": "INTRODUCCIÓN",
+                "Info": [
+                   "Las biomoléculas son sustancias imprescindibles que forman parte de los seres vivos, y que cumplen una serie de funciones importantes para su buen funcionamiento biológico. Se forman a partir de los seis elementos químicos más abundantes en los organismos, que son: el carbono (C), el hidrógeno (H), el nitrógeno (N), el oxígeno (O), el fósforo (P) y el azufre (S).",
+                   "De estos elementos se componen las biomoléculas conocidas como aminoácidos, glúcidos, lípidos, proteínas, ácidos nucleicos y vitaminas, las cuales son indispensables para la formación y funcionamiento de las células que componen los tejidos y los órganos de los seres vivos. Es decir, las biomoléculas son esenciales para la existencia de los seres vivos. (Significados, 2019)"
+                ],
+                "Imagenes": [
+                    {"url": "/Externas/Lab5/1.jpg", "text": "Tipos de moleculas"}
+                ]
+            },
+            {
+                "Titulo": "TIPOS DE BIOMOLECULAS: ",
+                "Info": [
+                    "BIOMOLÉCULAS INORGÁNICAS: se encuentran tanto en los organismos vivos como en los cuerpos inertes. Se caracterizan por no tener bases de carbono. Algunos ejemplos son el agua, algunos tipos de gases como el oxígeno y las sales inorgánicas como el bicarbonato.",
+                    "BIOMOLÉCULAS ORGÁNICAS: Se caracterizan por tener bases de carbono y por ser sintetizadas por los seres vivos a través de diversas reacciones químicas del metabolismo. Estas biomoléculas se agrupan de la siguiente manera: Aminoácidos, glúcidos, lípidos, proteínas, ácidos nucleicos y vitaminas."
+                ],
+                "Imagenes": []
+            },
+            {
+                "Titulo": "FUNCIONES DE LAS BIOMOLECULAS",
+                "Info": [
+                    "Conforman la materia empleada por las células que, posteriormente forman los tejidos, órganos y demás estructuras necesarias para la existencia de seres vivos.",
+                    "La deficiencia de las biomoléculas genera problemas de salud y enfermedades.",
+                    "Libera energía a través de los glúcidos",
+                    "Permiten la construcción de enlaces múltiples de elementos.",
+                    "Transportan nutrientes y otro tipo de sustancias",
+                    "Controlan el correcto funcionamiento de los organismos vivos.",
+                    "Contienen información genética, gracias a los ácidos nucleicos, que será heredada por cada organismo."
+                ],
+                "Imagenes": [
+                ]
+            },
+            {
+                "Titulo": "OBJETIVOS:",
+                "Info": [
+                    "Conocer y reconocer de que se componen las  biomoléculas teniendo en cuenta los elementos utilizados en laboratorio tales como el lugol, biured y demás",
+                    "Identificar la presencia de proteínas, lípidos, carbohidratos o almidón en los elementos utilizados en laboratorio."
+                ],
+                "Imagenes": []
+            },
+            {
+                "Titulo": "MATERIALES",
+                "Info": [
+                    "Lugol",
+                    "Biuret", 
+                    "Sudan",
+                    "Benedit", 
+                    "Papa",
+                    "Jugo",
+                    "Maní", 
+                    "Leche",
+                    "Clara",
+                    "Yema", 
+                    "Aceite", 
+                    "Tubos de ensayo"
+                ],
+                "Imagenes": [
+                    
+                ]
+            },
+            {
+                "Titulo": "RESULTADOS",
+                "Info": ["TABLA RESULTADOS"],
+                "Imagenes": [{"url": "/Externas/Lab5/tabla.png", "text": null}]
+            },
+            {
+                "Titulo": null,
+                "Info": [
+                    "De acuerdo al experimento realizado en laboratorio podemos identificar:",
+                    "* Papa: Utilizando benedit podemos notar la presencia de carbohidratos y utilizando lugol la presencia de almidón.",
+                    "* Jugo: Solo con el benedit se vio la presencia de carbohidratos.",
+                    "* Maní: Utilizando Biuret se vio la presencia de proteína y utilizando lugol la presencia de almidón.",
+                    "* Leche: Utilizando biuret se vio la presencia de proteínas y utilizando lugol la presencia de almidón. ",
+                    "* Clara de huevo: Utilizando Biuret se notó la presencia de proteínas.",
+                    "* Yema de Huevo: Solo con el Biuret se notó la presencia de proteínas.",
+                    "* Aceite: Utilizando sudán se observó la presencia de lípidos y utilizando benedit la presencia de carbohidratos."
+                ],
+                "Imagenes": [
+                    {"url": "/Externas/Lab5/2.jpg", "text": "Sustancias Utilizadas para las reacciones de las biomoléculas."},
+                    {"url": "/Externas/Lab5/3.jpg", "text": "Reacciones Biuret"},
+                    {"url": "/Externas/Lab5/4.jpg", "text": "Reacciones benedit"},
+                    {"url": "/Externas/Lab5/5.jpg", "text": "Reacciones lugol "},
+                    {"url": "/Externas/Lab5/6.jpg", "text": "Reacciones sudan "}
+                ]
+            },
+            {
+                "Titulo": "DISCUSIÓN Y RESULTADOS:",
+                "Info": [
+                   "En este laboratorio se pudo entender más importancia las biomoléculas y lo que las componen ya que como se dijo anteriormente estas son de vital importancia puesto que estas son de vital importancia para la formación y funcionamiento de las células que componen los tejidos y órganos, y poder identificar en diferentes alimentos la presencia de proteínas, lípidos, carbohidratos y almidón y conocer su reacciones ante las sustancias para identificarlas ayuda mas para entender los compuestos de los alimentos y de alguna manera saber que le estamos aportando a nuestro cuerpo."
+                ],
+                "Imagenes": [
+                ]
+            }
+        ],
+        "bibliografia": [
+            {
+                "ref": "Significados. (2019, 10 septiembre). Biomoléculas",
+                "link": "https://www.significados.com/biomoleculas/"
+            }
+        ],
+        "abstrac": "Las biomoléculas son sustancias imprescindibles que forman parte de los seres vivos, y que cumplen una serie de funciones importantes para su buen funcionamiento biológico. Se forman a partir de los seis elementos químicos más abundantes en los organismos, que son: el carbono (C), el hidrógeno (H), el nitrógeno (N), el oxígeno (O), el fósforo (P) y el azufre (S). ",
+        "portada":  "/Externas/Lab5/1.jpg"
     }
 ]

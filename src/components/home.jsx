@@ -8,7 +8,7 @@ import background from '../images/background.jpeg'
 
 export class Home extends Component {
   render() {
-    let aux = dataBase.slice(1, 4);
+    let aux = dataBase.slice(2, 5);
     return (
             <div>
                 <Navbar labs={dataBase}/>
