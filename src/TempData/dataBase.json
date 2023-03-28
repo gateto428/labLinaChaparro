@@ -473,5 +473,150 @@
         ],
         "abstrac": "Las biomoléculas son sustancias imprescindibles que forman parte de los seres vivos, y que cumplen una serie de funciones importantes para su buen funcionamiento biológico. Se forman a partir de los seis elementos químicos más abundantes en los organismos, que son: el carbono (C), el hidrógeno (H), el nitrógeno (N), el oxígeno (O), el fósforo (P) y el azufre (S). ",
         "portada":  "/Externas/Lab5/1.jpg"
+    },
+        {
+        "Laboratorio":4,
+        "titulo": " INFORME LABORATORIO ORGANIZACIÓN CELULAR",
+        "items":[
+            {
+                "Titulo": "RESUMEN",
+                "Info": [
+                   "La célula es la unidad básica, estructural y funcional de los seres vivos. En su interior se encuentran los componentes esenciales que hacen posible que los organismos se desarrollen adecuadamente y cumplan con sus funciones esenciales: respiración, nutrición, reproducción, etc.",
+                   "Las células tienen una estructura básica compuesta por una membrana celular, el citoplasma que contiene los componentes de la célula y el material genético. Este último puede estar concentrado en el núcleo, como en las células eucariotas o disperso en el citoplasma, como en las células procariotas.",
+                   "Las células se clasifican en dos grandes tipos:",
+                   "Células eucariotas, que son las que poseen núcleo celular. A su vez, las células eucariotas pueden ser de tipo animal o vegetal.",
+                   "Células procariotas: que no poseen núcleo celular. \n La palabra célula viene del latín cellula, que significa “pequeña celda”. El término fue utilizado por primera vez por el naturalista Robert Hooke en el siglo XVII. La teoría celular fue propuesta en 1839 por Matthias Jakob Shleiden y Theodor Schwann. Ambos afirmaron que todos los organismos están conformados por células, las cuales derivan de otra célula precedente. (Qué es la célula, 2014)"
+                ],
+                "Imagenes": [
+                ]
+            },
+            {
+                "Titulo": "OBJETIVOS:",
+                "Info": [
+                    "Reconocer las células eucariotas y procariotas en el microscopio.",
+                    "Identificar sus fases con elementos como la cebolla, tomate y demás.",
+                    "Identificar algunos organelos y sus estructuras citoplasmáticas."
+                ],
+                "Imagenes": []
+            },
+            {
+                "Titulo": "MATERIALES:",
+                "Info": [
+                    "Microscopio",
+                    "Portaobjetos",
+                    "Cubreobjetos",
+                    "Gotero ",
+                    "Palillos de madera",
+                    "Azul de metileno ",
+                    "Lugol",
+                    "Yogurt ",
+                    "Levadura",
+                    "Tomate",
+                    "Moho",
+                    "Pinzas"
+                ],
+                "Imagenes": [
+                ]
+            },
+            {
+                "Titulo": "RESULTADOS",
+                "Info": [
+                ],
+                "Imagenes": [
+                    {"url": "/Externas/Lab4/1.jpeg", "text": "Muestra de yogurt con azul de metileno Lente 10x"},
+                    {"url": "/Externas/Lab4/2.jpeg", "text": "Muestra moho: se pueden observar sacharomises podemos observar los filamentos de las hinfas dentro de los pequeños “parches” negros. Lente 40x"},
+                    {"url": "/Externas/Lab4/3.jpeg", "text": "Células de la mejilla Lente 40x Presenta células epiteliales con un núcleo definido en su interior. Podemos observar la membrana plasmática (azul oscuro), su núcleo son los puntos en su interior."},
+                    {"url": "/Externas/Lab4/4.jpeg", "text": "Epidermis de la cebolla con lugol lente 10x Podemos observar la pared celular (líneas) su membrana plasmática es lo que está dentro de la pared celular y su núcleo son aquellos puntos amarillos."},
+                    {"url": "/Externas/Lab4/5.jpeg", "text": "Tomate lente 5x Podemos observar la presencia del ripus nigrasa."},
+                    {"url": "/Externas/Lab4/6.jpeg", "text": "Almidón en azul de metileno lente 40x Podemos presenciar los aminoplastos  esta es una  bacteria del almidón."},
+                    {"url": "/Externas/Lab4/7.jpeg", "text": "Ilustración de los organismos celulares encontrados en la práctica"}
+                ]
+            },
+            {
+                "Titulo": "DISCUSIÓN Y RESULTADOS:",
+                "Info": [
+                    "En esta práctica se pudo observar los diferentes microorganismos y su  composición celular bajo el microscopio, microorganismos tales como las células epiteliales las cuales son muy interesantes de ver cuando se dejan en la placa con el azul de metileno ya que se descomponen esto mismo pasa con la levadura después de cierto tiempo y esto nos permite observar mas a detalle su composición, diversos microorganismos que nos permiten un conocimiento más amplio de ellos a su vez interpretando gráficamente para poder tener claro partes como la membrana celular y demás."
+                ],
+                "Imagenes": [
+                ]
+            }
+        ],
+        "bibliografia": [
+            {
+                "ref": "Significados. (2022, 5 octubre). Qué es la célula.",
+                "link": "https://www.significados.com/celula/"
+            }
+        ],
+        "abstrac": "La célula es la unidad básica, estructural y funcional de los seres vivos. En su interior se encuentran los componentes esenciales que hacen posible que los organismos se desarrollen adecuadamente y cumplan con sus funciones esenciales: respiración, nutrición, reproducción, etc.",
+        "portada":  "/Externas/Lab4/7.jpeg"
+    },
+    {
+        "Laboratorio":6,
+        "titulo": "INFORME LABORATORIO EXTRACCIÓN CASERA DEL ADN ",
+        "items":[
+            {
+                "Titulo": "INTRODUCCIÓN",
+                "Info": [
+                   "El ADN, o ácido desoxirribonucleico, es el material que contiene la información hereditaria en los humanos y casi todos los demás organismos. Casi todas las células del cuerpo de una persona tienen el mismo ADN. La mayor parte del ADN se encuentra en el núcleo celular (o ADN nuclear), pero también se puede encontrar una pequeña cantidad de ADN en las mitocondrias (ADN mitocondrial o ADNmt). La información en el ADN se almacena como un código compuesto por cuatro bases químicas, adenina (A), guanina (G), citosina (C) y timina (T). El ADN humano consta de unos 3 mil millones de bases, y más del 99 por ciento de esas bases son iguales en todas las personas. El orden o secuencia de estas bases determina la información disponible para construir y mantener un organismo, similar a la forma en que las letras del alfabeto aparecen en un cierto orden para formar palabras y oraciones. Las bases de ADN se emparejan entre sí, adenina (A) con timina (T) y citosina (C) con guanina (G); para formar unidades llamadas pares de bases. Cada base también está unida a una molécula de azúcar y una molécula de fosfato. Juntos (una base, un azúcar y un fosfato) se llaman nucleótidos. Los nucleótidos están dispuestos en dos hebras largas que forman una espiral llamada doble hélice. La estructura de la doble hélice es algo parecido a una escalera, los pares de bases forman los peldaños de la escalera y las moléculas de azúcar y fosfato son sus pasamanos. Una propiedad importante del ADN es que puede replicarse o hacer copias de sí mismo. Cada hebra de ADN en la doble hélice puede servir como patrón para duplicar la secuencia de bases. Esto es fundamental cuando las células se dividen, porque cada nueva célula necesita tener una copia exacta del ADN presente en la célula antigua. (¿Qué es el ADN?: MedlinePlus Genetics, s. f.)."
+                ],
+                "Imagenes": [
+                    {"url": "/Externas/Lab6/1.jpg", "text": "Cadena del ADN"}
+                ]
+            },
+            {
+                "Titulo": "OBJETIVOS: ",
+                "Info": [
+                    "* Realizar la extracción casera del ADN que contiene las fresas utilizando herramientas como etanol, detergente, y sal para poder observar dicha extracción.",
+                    "* Reconocer e identificar el ADN que contiene las fresas."
+                ],
+                "Imagenes": []
+            },
+            {
+                "Titulo": "MATERIALES: ",
+                "Info": [
+                    "* Fresas.",
+                    "* Bisturí.",
+                    "* Baño de María.",
+                    "* Algodón.",
+                    "* Probeta de 100 ml.",
+                    "* Tubo de ensayo.",
+                    "* Agua destilada.",
+                    "* Detergente lavaplatos. ",
+                    "* Cloruro de sodio.",
+                    "* Papel de filtro ",
+                    "* Etanol. "
+                ],
+                "Imagenes": [
+                    {"url": "/Externas/Lab6/2.jpeg", "text": "Agua + Detergente"},
+                    {"url": "/Externas/Lab6/3.jpeg", "text": "Sal 14.2gr"},
+                    {"url": "/Externas/Lab6/4.jpeg", "text": "NaCl + Agua + Detergente \n Solución sobresaturada. "},
+                    {"url": "/Externas/Lab6/5.jpeg", "text": "Fresas maceradas"},
+                    {"url": "/Externas/Lab6/6.jpeg", "text": "Fresas + NaCl + Agua + Detergente \n Baño María por 15 minutos."},
+                    {"url": "/Externas/Lab6/7.jpeg", "text": "Extracción de la sopa del jugo obteniendo 5ml de líquido filtrado"},
+                    {"url": "/Externas/Lab6/8.jpeg", "text": "Filtración de proteínas y lípidos."},
+                    {"url": "/Externas/Lab6/9.jpeg", "text": "Solución + Etanol "},
+                    {"url": "/Externas/Lab6/10.jpeg", "text": "ADN resultante de la fresa"}
+                ]
+            },
+            {
+                "Titulo": "DISCUSIÓN: ",
+                "Info": [
+                    "Tras el último resultado se puede concluir que en el ADN de una fresa, se muestra como la genética puede manifestarse en organismos y cómo esta información se puede utilizar en la ciencia, a través de este análisis del ADN en una fresa se puede identificar y comprender mejor los genes y las características que pueden determinar factores como: sabor y tamaño. Gracias a esto puede ser posible desarrollar variedades de fresas mejoradas y más resistentes a cambios climáticos, gracias a este laboratorio se puede mejorar la comprensión de la biología y la producción de alimentos."
+                ],
+                "Imagenes": []
+            }
+        ],
+        "bibliografia": [
+            {
+                "ref": "¿Qué es el ADN?: MedlinePlus Genetics. (s. f.).",
+                "link": "https://medlineplus.gov/spanish/genetica/entender/basica/adn/"
+            },
+            {
+                "ref": "ADN. (s. f.).",
+                "link": " https://www.google.com/search?q=que+es+el+ADN&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjpm8r3vvr9AhUDVTABHQoEBD8Q_AUoAXoECAEQAw&biw=1366&bih=657&dpr=1#imgrc=Yd8G4OCXDe2LRM"
+            }
+        ],
+        "abstrac": " El ADN, o ácido desoxirribonucleico, es el material que contiene la información hereditaria en los humanos y casi todos los demás organismos. Casi todas las células del cuerpo de una persona tienen el mismo ADN. La mayor parte del ADN se encuentra en el núcleo celular (o ADN nuclear), pero también se puede encontrar una pequeña cantidad de ADN en las mitocondrias (ADN mitocondrial o ADNmt). La información en el ADN se almacena como un código compuesto por cuatro bases químicas, adenina (A), guanina (G), citosina (C) y timina (T).",
+        "portada":  "/Externas/Lab6/1.jpg"
     }
 ]
