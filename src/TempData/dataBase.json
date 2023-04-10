@@ -474,8 +474,8 @@
         "abstrac": "Las biomoléculas son sustancias imprescindibles que forman parte de los seres vivos, y que cumplen una serie de funciones importantes para su buen funcionamiento biológico. Se forman a partir de los seis elementos químicos más abundantes en los organismos, que son: el carbono (C), el hidrógeno (H), el nitrógeno (N), el oxígeno (O), el fósforo (P) y el azufre (S). ",
         "portada":  "/Externas/Lab5/1.jpg"
     },
-        {
-        "Laboratorio":4,
+    {
+        "Laboratorio":6,
         "titulo": " INFORME LABORATORIO ORGANIZACIÓN CELULAR",
         "items":[
             {
@@ -551,7 +551,7 @@
         "portada":  "/Externas/Lab4/7.jpeg"
     },
     {
-        "Laboratorio":6,
+        "Laboratorio":7,
         "titulo": "INFORME LABORATORIO EXTRACCIÓN CASERA DEL ADN ",
         "items":[
             {
@@ -618,5 +618,80 @@
         ],
         "abstrac": " El ADN, o ácido desoxirribonucleico, es el material que contiene la información hereditaria en los humanos y casi todos los demás organismos. Casi todas las células del cuerpo de una persona tienen el mismo ADN. La mayor parte del ADN se encuentra en el núcleo celular (o ADN nuclear), pero también se puede encontrar una pequeña cantidad de ADN en las mitocondrias (ADN mitocondrial o ADNmt). La información en el ADN se almacena como un código compuesto por cuatro bases químicas, adenina (A), guanina (G), citosina (C) y timina (T).",
         "portada":  "/Externas/Lab6/1.jpg"
+    },
+    {
+        "Laboratorio":8,
+        "titulo": "INFORME LABORATORIO OSMOSIS",
+        "items":[
+            {
+                "Titulo": "INTRODUCCIÓN",
+                "Info": [
+                   "La ósmosis es un fenómeno de difusión pasiva que sucede cuando existen dos soluciones en un medio con diferente concentración de solutos, que están separadas por una membrana semipermeable (deja pasar solo el disolvente). Este fenómeno se produce de manera espontánea sin necesidad de aporte energético.",
+                   "Existen tres posibles medios acuosos separados por una membrana semipermeable:",
+                   "* Medio hipotónicos: la concentración de soluto es menor respecto a la solución contigua.",
+                   "* Medio hipertónico: la concentración de soluto es mayor respecto a la solución contigua.",
+                   "* Medio isotónico (en equilibrio): cuando ambas soluciones tienen la misma concentración.",
+                   "Durante el proceso de ósmosis, el disolvente difunde de la solución de menor concentración (más diluida) al de mayor concentración a través de la membrana semipermeable, hasta equilibrar las concentraciones. Este fenómeno se produce desde los medios hipotónicos hacia los medios hipertónicos. El proceso osmótico puede darse en el interior de los organismos o, por el contrario, en el medio exterior.",
+                   "* En el interior de los organismos, por ejemplo, los glóbulos rojos pueden estar en una solución hipertónica. Entonces para igualar la concentración con el medio exterior de los glóbulos rojos liberan agua, quedándose arrugados y pudiendo provoca la muerte. Al contrario, cuando la disolución es hipotónica, los glóbulos rojos absorben agua y se inflan, pudiendo provocar también la rotura del glóbulo y su muerte (lisis celular).",
+                   "* En el medio exterior, por ejemplo, aquellos organismos vivos como las plantas expuestas a ambientes salinos (solución de alta concentración) presentan alta presión osmótica, lo que significa que requieren de un sistema de osmorregulación para tolerar la salinidad. Valdivielso, A. (2020, 18 de agosto). ¿Qué es la ósmosis? iAgua."
+                ],
+                "Imagenes": []
+            },
+            {
+                "Titulo": "OBJETIVOS: ",
+                "Info": [
+                    "* Conocer a grandes rasgos el proceso el proceso de osmosis  y como funciona en diferentes tipos de soluciones.",
+                    "* Identificar los diferentes factores que pueden afectar la tasa y dirección de osmosis teniendo en cuenta factores como la concentración, temperatura, presión o la permeabilidad de la membrana celular.",
+                    "* Entender la importancia de la osmosis en sistemas biológicos y su participación en la absorción de nutrientes y eliminación de desechos en células y organismos."
+                ],
+                "Imagenes": []
+            },
+            {
+                "Titulo": "MATERIALES: ",
+                "Info": [
+                    "* Cebolla",
+                    "* Placas cubre y portaobjetos ",
+                    "* Suero fisiológico ",
+                    "* NaCl",
+                    "* Agua destilada",
+                    "* Muestra de ADN",
+                    "* Vaso precipitado",
+                    "* Azul de metileno",
+                    "* Microscopio"
+                ],
+                "Imagenes": [
+                ]
+            },
+            {
+                "Titulo": "RESULTADOS",
+                "Info": [],
+                "Imagenes": [
+                    {"url": "/Externas/Lab7/1.jpeg", "text": "Agua  + 2 gotas azul de metileno \n Tiempo diluido a temperatura ambiente \n Solución isotónica"},
+                    {"url": "/Externas/Lab7/2.jpeg", "text": "Agua destilada + 2 gotas de azul de metileno \n Tiempo diluido 47 minutos. \n Solución hipertónica"},
+                    {"url": "/Externas/Lab7/3.jpeg", "text": "Proceso de dilución \n Entre mezcla temperatura ambiente y fría"},
+                    {"url": "/Externas/Lab7/4.jpeg", "text": "Membrana cebolla + suero fisiológico 0.8% \n Lente 10x"},
+                    {"url": "/Externas/Lab7/5.jpeg", "text": "Membrana cebolla + Agua destilada 0% \n Lente 10x"},
+                    {"url": "/Externas/Lab7/6.jpeg", "text": "Membrana Cebolla + NaCl \n Lente 10x"},
+                    {"url": "/Externas/Lab7/7.jpeg", "text": "NaCl + ADN \n Lente 10x \n Presencia dispersa de glóbulos rojos"},
+                    {"url": "/Externas/Lab7/8.jpeg", "text": "Agua + ADN \n Lente 20x \n Ruptura enlaces glóbulos rojos ante las moléculas del agua \n"},
+                    {"url": "/Externas/Lab7/9.jpeg", "text": "Suero fisiológico + ADN \n Lente 20x \n No se presencia ruptura enlaces de glóbulos rojos ante el suero"}
+                ]
+            },
+            {
+                "Titulo": "DISCUSIÓN: ",
+                "Info": [
+                    "Los resultados muestran que la exposición del ADN a soluciones con alta concentración puede provocar la “desnaturalización” del ADN y por consiguiente la ruptura de cadenas de doble hélice, dando a entender que la osmosis puede afectar la integridad del ADN en donde las células se exponen a entornos hipertónicos. También se observó que la temperatura a la que se exponen las muestras del ADN afecta la permeabilidad de las membranas celulares, permitiendo que más moléculas de ADN entren en las células. También se evidencio que las moléculas de ADN más pequeñas se pueden difundir fácilmente a través de poros pequeños que tenga la membrana celular mientras que las moléculas más grandes experimentan una difusión más lenta como se puede evidenciar ya que la osmosis desempeña un papel importante ante el material genético en las células y la permeabilidad de la membrana celular."
+                ],
+                "Imagenes": []
+            }
+        ],
+        "bibliografia": [
+            {
+                "ref": "Valdivielso, A. (2020, 18 de agosto). ¿Qué es la ósmosis? iAgua.",
+                "link": " https://www.iagua.es/respuestas/que-es-osmosis "
+            }
+        ],
+        "abstrac": "Los resultados muestran que la exposición del ADN a soluciones con alta concentración puede provocar la “desnaturalización” del ADN y por consiguiente la ruptura de cadenas de doble hélice, dando a entender que la osmosis puede afectar la integridad del ADN en donde las células se exponen a entornos hipertónicos. También se observó que la temperatura a la que se exponen las muestras del ADN afecta la permeabilidad de las membranas celulares, permitiendo que más moléculas de ADN entren en las células. También se evidencio que las moléculas de ADN más pequeñas se pueden difundir fácilmente a través de poros pequeños que tenga la membrana celular mientras que las moléculas más grandes experimentan una difusión más lenta como se puede evidenciar ya que la osmosis desempeña un papel importante ante el material genético en las células y la permeabilidad de la membrana celular.",
+        "portada":  "/Externas/Lab7/9.jpeg"
     }
 ]
