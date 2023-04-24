@@ -693,5 +693,77 @@
         ],
         "abstrac": "Los resultados muestran que la exposición del ADN a soluciones con alta concentración puede provocar la “desnaturalización” del ADN y por consiguiente la ruptura de cadenas de doble hélice, dando a entender que la osmosis puede afectar la integridad del ADN en donde las células se exponen a entornos hipertónicos. También se observó que la temperatura a la que se exponen las muestras del ADN afecta la permeabilidad de las membranas celulares, permitiendo que más moléculas de ADN entren en las células. También se evidencio que las moléculas de ADN más pequeñas se pueden difundir fácilmente a través de poros pequeños que tenga la membrana celular mientras que las moléculas más grandes experimentan una difusión más lenta como se puede evidenciar ya que la osmosis desempeña un papel importante ante el material genético en las células y la permeabilidad de la membrana celular.",
         "portada":  "/Externas/Lab7/9.jpeg"
+    },
+        {
+        "Laboratorio":9,
+        "titulo": "INFORME DE LABORATORIO CÉLULAS",
+        "items":[
+            {
+                "Titulo": "INTRODUCCIÓN",
+                "Info": [
+                  "La célula es la unidad básica, estructural y funcional de los seres vivos. En su interior se encuentran los componentes esenciales que hacen posible que los organismos se desarrollen adecuadamente y cumplan con sus funciones esenciales: respiración, nutrición, reproducción, etc. Las células tienen una estructura básica compuesta por una membrana celular, el citoplasma que contiene los componentes de la célula y el material genético. Este último puede estar concentrado en el núcleo, como en las células eucariotas o disperso en el citoplasma, como en las células procariotas. (Qué es la célula, 2014).",
+                  "Las células se clasifican en dos grandes tipos:",
+                  "* Células eucariotas: Son aquellas que tienen un núcleo celular definido. Este núcleo celular está formado por una envoltura nuclear donde se mantiene la integridad del material genético (ADN).",
+                  "* Células procariotas: Son aquellas que no poseen núcleo definido, por lo cual el material genético se encuentra disperso por el citoplasma. Se caracterizan porque su ADN y estructura son mucho más simples que los de las células eucariotas."
+                ],
+                "Imagenes": [{"url": "/Externas/Lab8/1.jpg", "text": "Celulas eucariota y procariota"}]
+            },
+            {
+                "Titulo": "OBJETIVOS: ",
+                "Info": [
+                    "Identificar y describir las características de las células observadas. Esto incluye la identificación de las estructuras celulares y la descripción de sus funciones.",
+                    "Analizar la morfología y la estructura de las células y comprender cómo las células funcionan y cómo se relacionan entre sí."
+                ],
+                "Imagenes": []
+            },
+            {
+                "Titulo": "MATERIALES: ",
+                "Info": [
+                    "* Cuchillas de afeitar.",
+                    "* Tallos de calabaza.",
+                    "* Tallos de kikuyo.",
+                    "* Hojas de eucalipto.",
+                    "* Hojas de geranio.",
+                    "* Laminas cobre y portaobjetos.",
+                    "* Azul de metileno.",
+                    "* Hipoclorito de sodio.",
+                    "* Agua acidulada.",
+                    "* Tionina."
+                ],
+                "Imagenes": [
+                ]
+            },
+            {
+                "Titulo": "RESULTADOS",
+                "Info": [],
+                "Imagenes": [
+                    {"url": "/Externas/Lab8/2.jpeg", "text": "Lente 10x Tejido epitelial"},
+                    {"url": "/Externas/Lab8/3.jpeg", "text": "Lente 10x \n Tricoma simple y tricoma glandular."},
+                    {"url": "/Externas/Lab8/4.jpeg", "text": "Lente 10x \n Xilema"},
+                    {"url": "/Externas/Lab8/5.jpeg", "text": ""},
+                    {"url": "/Externas/Lab8/6.jpeg", "text": "Verde: glándula \n Rojo: xilema \n Amarillo: esclerénquima \n Morado: empalizada"},
+                    {"url": "/Externas/Lab8/7.jpeg", "text": "Célula epitelial lente 10x"},
+                    {"url": "/Externas/Lab8/8.jpeg", "text": "Vaso Epitelial lente 20x \n Tallo de calabaza"},
+                    {"url": "/Externas/Lab8/9.jpeg", "text": "Lente 10x tallo calabaza"},
+                    {"url": "/Externas/Lab8/10.jpeg", "text": "Epidermis-verde \n Colenquima- rojo \n Palenquima- azul \n Esclerenquima-amarillo"},
+                    {"url": "/Externas/Lab8/11.jpeg", "text": "Tallo Calabaza Lente 10x \n Epidermis-verde \n Colenquima- azul \n Palenquima- fucsia \n Esclerenquima-blanco"}
+                ]
+            },
+            {
+                "Titulo": "DISCUSIÓN: ",
+                "Info": [
+                    "El informe de laboratorio sobre células utilizando tallos de calabaza, tallos de kikuyo y hojas de eucalipto ha permitido identificar y describir las características de diferentes tipos de células vegetales, así como analizar su morfología y estructura. Los experimentos realizados en el laboratorio han demostrado la presencia de diversas estructuras celulares como la pared celular, los cloroplastos y las mitocondrias, cabe resaltar que utilizando azul de metileno y agua acidulada permite ver con más claridad partes de la célula vegetal como el esclerénquima la epidermis y demás que sin estos componentes no se hubiera podido observar las cuales son importantes para el funcionamiento de las células. La presencia de distintas estructuras celulares y organelos en cada tipo de tejido estudiado en el laboratorio ha permitido observar las diferencias y similitudes en la estructura de las células vegetales. Este conocimiento es importante para la comprensión de procesos biológicos fundamentales, como la fotosíntesis y la respiración celular."
+                ],
+                "Imagenes": []
+            }
+        ],
+        "bibliografia": [
+            {
+                "ref": "Qué es la célula. (2014, noviembre 12). Significados.",
+                "link": "https://www.significados.com/celula/"
+            }
+        ],
+        "abstrac": "El informe de laboratorio sobre células utilizando tallos de calabaza, tallos de kikuyo y hojas de eucalipto ha permitido identificar y describir las características de diferentes tipos de células vegetales, así como analizar su morfología y estructura. Los experimentos realizados en el laboratorio han demostrado la presencia de diversas estructuras celulares como la pared celular, los cloroplastos y las mitocondrias, cabe resaltar que utilizando azul de metileno y agua acidulada permite ver con más claridad partes de la célula vegetal como el esclerénquima la epidermis y demás que sin estos componentes no se hubiera podido observar las cuales son importantes para el funcionamiento de las células. La presencia de distintas estructuras celulares y organelos en cada tipo de tejido estudiado en el laboratorio ha permitido observar las diferencias y similitudes en la estructura de las células vegetales. Este conocimiento es importante para la comprensión de procesos biológicos fundamentales, como la fotosíntesis y la respiración celular.",
+        "portada":  "/Externas/Lab8/1.jpg"
     }
 ]
