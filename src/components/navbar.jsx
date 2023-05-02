@@ -11,7 +11,7 @@ function classNames(...classes) {
 
 export default function Navbar(props) {
   let navigation = [{ name: 'Home', href: '/', current: true }]
-  for(let i = 1; i < props.labs.length; i ++){
+  for(let i = 2; i < props.labs.length; i ++){
     navigation.push({
       name: "Laboratorio" + props.labs[i].Laboratorio,
       href: `/lab/${props.labs[i].Laboratorio}`,

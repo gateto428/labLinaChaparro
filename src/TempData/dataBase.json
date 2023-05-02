@@ -694,7 +694,7 @@
         "abstrac": "Los resultados muestran que la exposición del ADN a soluciones con alta concentración puede provocar la “desnaturalización” del ADN y por consiguiente la ruptura de cadenas de doble hélice, dando a entender que la osmosis puede afectar la integridad del ADN en donde las células se exponen a entornos hipertónicos. También se observó que la temperatura a la que se exponen las muestras del ADN afecta la permeabilidad de las membranas celulares, permitiendo que más moléculas de ADN entren en las células. También se evidencio que las moléculas de ADN más pequeñas se pueden difundir fácilmente a través de poros pequeños que tenga la membrana celular mientras que las moléculas más grandes experimentan una difusión más lenta como se puede evidenciar ya que la osmosis desempeña un papel importante ante el material genético en las células y la permeabilidad de la membrana celular.",
         "portada":  "/Externas/Lab7/9.jpeg"
     },
-        {
+    {
         "Laboratorio":9,
         "titulo": "INFORME DE LABORATORIO CÉLULAS",
         "items":[
@@ -765,5 +765,98 @@
         ],
         "abstrac": "El informe de laboratorio sobre células utilizando tallos de calabaza, tallos de kikuyo y hojas de eucalipto ha permitido identificar y describir las características de diferentes tipos de células vegetales, así como analizar su morfología y estructura. Los experimentos realizados en el laboratorio han demostrado la presencia de diversas estructuras celulares como la pared celular, los cloroplastos y las mitocondrias, cabe resaltar que utilizando azul de metileno y agua acidulada permite ver con más claridad partes de la célula vegetal como el esclerénquima la epidermis y demás que sin estos componentes no se hubiera podido observar las cuales son importantes para el funcionamiento de las células. La presencia de distintas estructuras celulares y organelos en cada tipo de tejido estudiado en el laboratorio ha permitido observar las diferencias y similitudes en la estructura de las células vegetales. Este conocimiento es importante para la comprensión de procesos biológicos fundamentales, como la fotosíntesis y la respiración celular.",
         "portada":  "/Externas/Lab8/1.jpg"
+    },
+    {
+        "Laboratorio":10,
+        "titulo": "INFORME DE LABORATORIO TEJIDO ANIMAL",
+        "items":[
+            {
+                "Titulo": "INTRODUCCIÓN",
+                "Info": [
+                  "La célula animal es la unidad funcional básica de los tejidos de los animales, que son organismos pluricelulares. Es, como la célula vegetal, un tipo de célula eucariota caracterizada por tener un núcleo verdadero y organelos especializados, lo que la diferencia de las células procariotas. (Páez, 2022)"
+                ],
+                "Imagenes": []
+            },
+            {
+                "Titulo": "PARTES DE LAS CÉLULA ANIMAL",
+                "Info": [
+                    "* Núcleo.",
+                    "* Membrana plasmática.",
+                    "* Citoplasma.",
+                    "* Retículo endoplasmático.",
+                    "* Aparato de Golgi.",
+                    "* Centrosoma.",
+                    "* Cilios y flagelos.",
+                    "* Mitocondrias.",
+                    "* Citoesqueleto."
+                ],
+                "Imagenes": []
+            },
+            {
+                "Titulo": "DIFERENCIAS ENTRE CÉLULA ANIMAL Y CÉLULA VEGETAL",
+                "Info": [
+                    "* La célula animal se puede encontrar solo en seres vivos del reino animal y la célula vegetal está presente solo en plantas y algas.",
+                    "* La célula animal no cuenta con pared celular externa ni cloroplastos.",
+                    "* La célula animal que no tiene la vegetal es el centrosoma y, además, tiene vacuolas más numerosas en su interior.",
+                    "* La presencia de cilios o flagelos también es más frecuente en células de los animales, ya que en las vegetales solo suelen aparecer cilios en la fase de gameto de algunas plantas o algas."
+                ],
+                "Imagenes": [
+                    {"url": "/Externas/Lab9/1.png", "text": null}
+                ]
+            },
+            {
+                "Titulo": "OBJETIVOS:",
+                "Info": [
+                    "* Observar las características morfológicas de las células animales utilizando un microscopio óptico. Algunos de los aspectos que se podrían observar incluyen el tamaño, la forma, el número y la disposición de los orgánulos celulares.",
+                    "* Identificar diferentes tipos de células animales utilizando técnicas de tinción y microscopía, con el fin de examinar tejidos como el epitelio, el tejido muscular y el tejido nervioso."
+                ],
+                "Imagenes": []
+            },
+            {
+                "Titulo": "MATERIALES: ",
+                "Info": [
+                    "* Placas porta y cubreobjetos.",
+                    "* Microscopio óptico.",
+                    "* Porción de musculo de pollo.",
+                    "* Hueso.",
+                    "* Azul de metileno.",
+                    "* Muestra de ADN.",
+                    "* Cuchilla. ",
+                    "* Azul de metileno. ",
+                    "* Vaso precipitado. ",
+                    "* Aceite de inmersión."
+                ],
+                "Imagenes": []
+            },
+            {
+                "Titulo": "RESULTADOS: ",
+                "Info": [
+                ],
+                "Imagenes": [
+                    {"url": "/Externas/Lab9/2.jpeg", "text": "Muestra tejido sanguíneo lente 10 x \nPresencia de glóbulos blancos (Morados) \nPresencia de neutrófilos."},
+                    {"url": "/Externas/Lab9/3.jpeg", "text": "Lente 10x \n Muestra de ADN"},
+                    {"url": "/Externas/Lab9/4.jpeg", "text": "Lente 10x \n Muestra Tejido cartilaginoso"},
+                    {"url": "/Externas/Lab9/5.jpeg", "text":  "Lente 10x \n Tejido cartilaginoso con azul de metileno"},
+                    {"url": "/Externas/Lab9/6.jpeg", "text": "Lente 10x \n Muestra Musculo de Pollo"},
+                    {"url": "/Externas/Lab9/7.jpeg", "text": "Muestra Tejido Muscular + Azul de metileno"}
+                ]
+            },
+            {
+                "Titulo": "DISCUSIÓN: ",
+                "Info": [
+                    "* Durante esta práctica se pudo observar que cada tipo de tejido animal tenía una estructura celular específica y una función única en el organismo. Por ejemplo, el tejido muscular está compuesto por células alargadas que se contraen para producir movimiento, mientras que el tejido nervioso está compuesto por células que transmiten señales eléctricas para coordinar y controlar las funciones del cuerpo. De igual manera al observar los tejidos animales mediante el uso de técnicas de tinción y microscopía permitió identificar y describir las características estructurales de los tejidos, así como comprender su función en el organismo.",
+                    "* Se observó que la preservación adecuada del tejido animal y tejido de ADN es crucial para su estudio. Si el tejido no se fijaba o almacenaba correctamente, su estructura se podía alterar, lo que dificultaría su observación y estudio. Por lo tanto es importante seguir los procedimientos adecuados para la preservación y almacenamiento de los tejidos animales y ADN en el laboratorio."
+                ],
+                "Imagenes": []
+            }
+        ],
+        "bibliografia": [
+            {
+                "ref": "Páez, J. C. (2022, June 30). Partes de la célula animal. ecologiaverde.com.",
+                "link": "https://www.ecologiaverde.com/partes-de-la-celula-animal-3279.html#:~:text=La%20c%C3%A9lula%20animal%20es%20la,diferencia%20de%20las%20c%C3%A9lulas%20procariotas."
+            }
+        ],
+        "abstrac": "La célula animal es la unidad funcional básica de los tejidos de los animales, que son organismos pluricelulares. Es, como la célula vegetal, un tipo de célula eucariota caracterizada por tener un núcleo verdadero y organelos especializados, lo que la diferencia de las células procariotas. (Páez, 2022)",
+        "portada":  "/Externas/Lab9/1.png"
     }
 ]
