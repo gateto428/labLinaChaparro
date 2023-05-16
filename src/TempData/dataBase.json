@@ -858,5 +858,83 @@
         ],
         "abstrac": "La célula animal es la unidad funcional básica de los tejidos de los animales, que son organismos pluricelulares. Es, como la célula vegetal, un tipo de célula eucariota caracterizada por tener un núcleo verdadero y organelos especializados, lo que la diferencia de las células procariotas. (Páez, 2022)",
         "portada":  "/Externas/Lab9/1.png"
+    },
+     {
+        "Laboratorio":11,
+        "titulo": "INFORME DE LABORATORIO MITOSIS",
+        "items":[
+            {
+                "Titulo": "INTRODUCCIÓN",
+                "Info": [
+                  "La mitosis es la forma en que las células del cuerpo se duplican, es decir, a partir de una célula se originan dos nuevas células. La mitosis la realizan sólo aquellas células que poseen núcleo, es decir las células eucariotas. Las plantas, los protozoarios, los hongos y los animales son los seres vivos cuyas células realizan mitosis.",
+                  "Durante el proceso de mitosis, la célula desarma su núcleo en una serie de etapas para repartir su contenido genético entre las dos células hijas, que al final comparten la misma información genética. (Fernandes, 2022)"
+                ],
+                "Imagenes": []
+            },
+            {
+                "Titulo": "SUS FASES:",
+                "Info": [],
+                "Imagenes": [
+                    {"url": "/Externas/Lab10/1.jpg", "text": null}
+                ]
+            },
+            {
+                "Titulo": "CARACTERÍSTICAS DE LA MITOSIS ",
+                "Info": [
+                    "* Ser un proceso secuencial: para que cada etapa del proceso se produzca, debe ocurrir la etapa anterior.",
+                    "* Producirse solo en las células eucariotas: el proceso de la mitosis se presenta únicamente en las células que poseen núcleo.",
+                    "* Producir dos células hijas idénticas a partir de una célula madre: las células que surgen de la mitosis de una célula madre tienen las mismas funciones y estructuras celulares.",
+                    "* Repartir el contenido genético entre las dos células hijas: cada célula hija posee los mismos cromosomas de la especie."
+                ],
+                "Imagenes": []
+            },
+            {
+                "Titulo": "OBJETIVOS:",
+                "Info": [
+                    "Identificación de la mitosis en la cebolla en las diferentes etapas de la mitosis en las células de la raíz de la cebolla.",
+                    "Identificar y describir las diferentes etapas de la mitosis en la raíz de la cebolla."
+                ],
+                "Imagenes": []
+            },
+            {
+                "Titulo": "MATERIALES: ",
+                "Info": [
+                   "* Raíz de cebolla.",
+                    "* Aceite de inmersión.",
+                   "* Azul de metileno.",
+                   "* Placas porta y cubreobjetos ",
+                    "* Cuchilla. ",
+                    "* Microscopio."
+                    
+                ],
+                "Imagenes": []
+            },
+            {
+                "Titulo": "RESULTADOS: ",
+                "Info": [
+                ],
+                "Imagenes": [
+                    {"url": "/Externas/Lab10/2.jpeg", "text": "Lente 100x aceite de inmersión \n Fase: Profase"},
+                    {"url": "/Externas/Lab10/3.jpeg", "text": "Lente 100x aceite de inmersión \n Fase: Metafase "},
+                    {"url": "/Externas/Lab10/4.jpeg", "text": "Lente 100x aceite de inmersión \n Fase: Anafase "},
+                    {"url": "/Externas/Lab10/5.jpeg", "text": "Lente 100x aceite de inmersión \n Fase: Telofase "}
+                ]
+            },
+            {
+                "Titulo": "CONCLUSIONES: ",
+                "Info": [
+                    " De acuerdo a este laboratorio se pudo concluir que la raíz de la cebolla es un modelo útil para estudiar la mitosis en células vegetales puesto que se ha identificado características importantes en cada una de ellas, lo que ha permitido comprender mejor cómo ocurre la división celular en las plantas e igualmente se observó  que la frecuencia de la mitosis varía en diferentes regiones de la raíz, lo que sugiere que la mitosis desempeña un papel importante en el crecimiento y desarrollo de las plantas. También se logró identificar El tiempo de duración de las diferentes etapas de la mitosis varía en las células de la raíz de la cebolla ya que la etapa profase fue la más larga y por ultimo la observación de la mitosis en la raíz de la cebolla requiere técnicas de preparación cuidadosas puesto que la inmersión de la raíz en una solución antes de su fijación y tinción ayuda a disminuir la cantidad de compuestos que pueden interferir con la observación de la mitosis."
+                ],
+                "Imagenes": []
+            }
+        ],
+        "bibliografia": [
+            {
+                "ref": "Fernández, AZ (2022). Mitosis: qué es, fases y características. Toda Materia .",
+                "link": "https://www.todamateria.com/mitosis/"
+            }
+        ],
+        "abstrac": "La mitosis es la forma en que las células del cuerpo se duplican, es decir, a partir de una célula se originan dos nuevas células. La mitosis la realizan sólo aquellas células que poseen núcleo, es decir las células eucariotas. Las plantas, los protozoarios, los hongos y los animales son los seres vivos cuyas células realizan mitosis.",
+        "portada":  "/Externas/Lab10/1.jpg"
     }
 ]
