@@ -859,7 +859,7 @@
         "abstrac": "La célula animal es la unidad funcional básica de los tejidos de los animales, que son organismos pluricelulares. Es, como la célula vegetal, un tipo de célula eucariota caracterizada por tener un núcleo verdadero y organelos especializados, lo que la diferencia de las células procariotas. (Páez, 2022)",
         "portada":  "/Externas/Lab9/1.png"
     },
-     {
+    {
         "Laboratorio":11,
         "titulo": "INFORME DE LABORATORIO MITOSIS",
         "items":[
@@ -936,5 +936,65 @@
         ],
         "abstrac": "La mitosis es la forma en que las células del cuerpo se duplican, es decir, a partir de una célula se originan dos nuevas células. La mitosis la realizan sólo aquellas células que poseen núcleo, es decir las células eucariotas. Las plantas, los protozoarios, los hongos y los animales son los seres vivos cuyas células realizan mitosis.",
         "portada":  "/Externas/Lab10/1.jpg"
+    },
+    {
+        "Laboratorio":12,
+        "titulo": "INFORME LABORATIORIO BACTERIAS",
+        "items":[
+            {
+                "Titulo": "INTRODUCCIÓN",
+                "Info": [
+                  "Las bacterias son organismos procariotas unicelulares, que se encuentran en casi todas las partes de la Tierra. Son vitales para los ecosistemas del planeta. Algunas especies pueden vivir en condiciones realmente extremas de temperatura y presión. El cuerpo humano está lleno de bacterias, de hecho se estima que contiene más bacterias que células humanas. La mayoría de bacterias que se encuentran en el organismo no producen ningún daño, al contrario, algunas son beneficiosas. Una cantidad relativamente pequeña de especies son las que causan enfermedades.",
+                  "Las bacterias son microorganismos que pueden tener distintas formas. Pueden ser esféricas, alargadas o espirales. Existen bacterias perjudiciales, llamadas patogénicas, las cuales causan enfermedades; pero también hay bacterias buenas. Por ejemplo, en nuestro sistema digestivo, en el intestino, tenemos bacterias que son muy necesarias para que nuestro cuerpo funcione correctamente. Lo más sorprendente sobre las bacterias es que en nuestro cuerpo tenemos 10 veces más células bacterianas que células humanas. (Bacteria, s/f) "
+                ],
+                "Imagenes": [{"url": "/Externas/Lab11/1.gif", "text": null}]
+            },
+            {
+                "Titulo": "OBJETIVOS: ",
+                "Info": [
+                    "* Determinar la identidad de las bacterias estudiadas realizando pruebas de tinción como la coloración de Gram para separar las bacterias y observación microscópica para identificar la morfología y características celulares de las mismas.",
+                    "* Utilizando la coloración de Gram determinar la estructura y clasificación de las bacterias estudiadas con muestras de saliva para distinguir entre bacterias Gram positivas y Gram negativas."
+                ],
+                "Imagenes": []
+            },
+            {
+                "Titulo": "MATERIALES:",
+                "Info": [
+                    "Placas porta y cubreobjetos. ",
+                    "Microscopio.",
+                    "Aceite de inmersión.",
+                    "Tinte cristal violeta.",
+                    "Lugol.",
+                    "Alcohol acetona.",
+                    "Fucsina. "
+                ],
+                "Imagenes": []
+            },
+            {
+                "Titulo": "RESULTADOS:",
+                "Info": [],
+                "Imagenes": [
+                    {"url": "/Externas/Lab11/2.jpeg", "text": "Proceso Coloración de Glam"},
+                    {"url": "/Externas/Lab11/3.jpeg", "text": "Presencia célula epitelial \n Lente 40x"},
+                    {"url": "/Externas/Lab11/4.jpeg", "text": "Presencia bacterias (BACILOS)\n Bacterias Gram negativas prueba de tinción rojo \n Aceite de inmersión lente 100x"},
+                    {"url": "/Externas/Lab11/5.jpeg", "text": "Acercamiento prueba de saliva\n Proceso coloración de Gram \n Demuestra bacterias tintadas de rojo"}
+                ]
+            },
+            {
+                "Titulo": "CONCLUSIONES: ",
+                "Info": [
+                    "De acuerdo a este laboratorio la coloración de Gram reveló que las bacterias presentes en las muestras son de tipo Gram negativo gracias a esto se presencia una membrana externa y una capa de peptidoglicano delgada y su color después de la coloración indica que las bacterias pertenecen al grupo ya antes mencionado. Teniendo en cuenta que las bacterias son del grupo Gram negativo y estas son conocidas por su capacidad patógena y la capacidad de causar infecciones en humanos y otros organismos se debería seguir un tratamiento ya que algunas de estas bacterias pueden ser resistentes a ciertos antibióticos y tienen mecanismos de virulencia. Gracias a este laboratorio se identificó que las bacterias Gram negativas tiene una amplia amplia diversidad de bacterias dentro de este grupo, ya que abarcan una amplia variedad de especies bacterianas con características distintivas y potencialidades diferentes. Por lo tanto, es crucial reconocer que cada especie."                    
+                ],
+                "Imagenes": []
+            }
+        ],
+        "bibliografia": [
+            {
+                "ref": "Bacteria | NHGRI. (n.d.). Genome.gov. ",
+                "link": "https://www.genome.gov/es/genetics-glossary/Bacteria"
+            }
+        ],
+        "abstrac": "Las bacterias son organismos procariotas unicelulares, que se encuentran en casi todas las partes de la Tierra. Son vitales para los ecosistemas del planeta. Algunas especies pueden vivir en condiciones realmente extremas de temperatura y presión. El cuerpo humano está lleno de bacterias, de hecho se estima que contiene más bacterias que células humanas. La mayoría de bacterias que se encuentran en el organismo no producen ningún daño, al contrario, algunas son beneficiosas. Una cantidad relativamente pequeña de especies son las que causan enfermedades.",
+        "portada":  "/Externas/Lab11/1.gif"
     }
 ]
